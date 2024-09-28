@@ -66,5 +66,5 @@ receivinPension(accountId);             // 领取养老金
 
 ## 资料
 
-[PPT](./链上养老金.pptx)
+[PPT](./链上养老金.pdf)
 
